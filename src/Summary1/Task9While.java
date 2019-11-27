@@ -1,3 +1,5 @@
+package Summary1;
+
 public class Task9While {
     public static void main(String[] args) {
         //write a java program that iterates an array using while-loop

@@ -1,3 +1,5 @@
+package Summary1;
+
 public class Split {
     public static void main(String[] args) {
         String s1 = "Hello world today is saturday";

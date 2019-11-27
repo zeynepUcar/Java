@@ -1,3 +1,5 @@
+package Summary1;
+
 public class PrintingZeros {
     public static void main(String[] args) {
         //    Write a Java program to print the grid of zeros with length m and n.

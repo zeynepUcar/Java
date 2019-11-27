@@ -1,3 +1,5 @@
+package Summary1;
+
 public class Task {
     public static void main(String[] args) {
         // 2. Write a Java program to sum values of an array.

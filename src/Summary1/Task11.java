@@ -1,3 +1,5 @@
+package Summary1;
+
 public class Task11 {
     public static void main(String[] args) {
         // write a java program that print array in this manner
